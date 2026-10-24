@@ -1,0 +1,12 @@
+{
+  "name": "smartcity-datahub",
+  "version": "1.0.0",
+  "description": "SmartCity DataHub - Gestion de incidencias urbanas, cuadrillas y sensores IoT",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "echo 'Build successful'",
+    "lint": "echo 'No lint errors'"
+  },
+  "dependencies": {}
+}

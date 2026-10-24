@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartCity DataHub</string>
+    <string name="dashboard_title">SmartCity DataHub</string>
+    <string name="dashboard_subtitle">Bucaramanga, Santander • ODS 11</string>
+    <string name="nav_dashboard">Panel</string>
+    <string name="nav_reportes">Incidencias</string>
+    <string name="nav_sensores">Sensores IoT</string>
+    <string name="nav_cuadrillas">Cuadrillas</string>
+    <string name="crear_reporte">Nuevo Reporte</string>
+</resources>

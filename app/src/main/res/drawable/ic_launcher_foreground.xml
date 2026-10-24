@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- City skyline in teal/emerald -->
+        <path
+            android:fillColor="#00C49F"
+            android:pathData="M32,74 L32,52 L42,52 L42,74 Z M44,74 L44,42 L54,34 L64,42 L64,74 Z M66,74 L66,48 L76,48 L76,74 Z" />
+        <!-- Windows accents in white -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M35,56 h4 v4 h-4 z M35,64 h4 v4 h-4 z M47,48 h4 v4 h-4 z M53,48 h4 v4 h-4 z M47,56 h4 v4 h-4 z M53,56 h4 v4 h-4 z M47,64 h4 v4 h-4 z M53,64 h4 v4 h-4 z M69,52 h4 v4 h-4 z M69,60 h4 v4 h-4 z" />
+        <!-- Smart IoT Pulse / Network beacon on top of tower -->
+        <path
+            android:fillColor="#38BDF8"
+            android:pathData="M54,26 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+        <path
+            android:strokeColor="#38BDF8"
+            android:strokeWidth="2"
+            android:strokeLineCap="round"
+            android:pathData="M48,22 C51,19 57,19 60,22 M44,18 C50,14 58,14 64,18" />
+        <!-- Base line -->
+        <path
+            android:fillColor="#E2E8F0"
+            android:pathData="M26,74 h56 v3 h-56 z" />
+    </group>
+</vector>

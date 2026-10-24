@@ -1,0 +1,8 @@
+{
+  "name": "SmartCity DataHub",
+  "description": "Plataforma de gestión de incidencias urbanas, cuadrillas operativas y sensores IoT para ciudades sostenibles (ODS 11).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
